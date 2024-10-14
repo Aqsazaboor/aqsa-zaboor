@@ -114,7 +114,7 @@ particlesJS('particles-js',
 
 //////////////// Banner JS//////////////////
 var typed = new Typed(".auto-type", {
-    strings: ["Web Developer", "Have a great experience in Wordpress"],
+    strings: ["Web Developer", "Have a great experience in front-end"],
     typeSpeed: 100,
     backSpeed: 50,
     loop: true,
